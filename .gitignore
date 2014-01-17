@@ -1,6 +1,8 @@
+.boot
 pom.xml
 *jar
+/resources/public/
 /lib/
 /classes/
-/targets/
-.lein-deps-sum
+/target*/
+.lein-deps*
